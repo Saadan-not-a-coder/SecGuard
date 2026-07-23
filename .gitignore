@@ -1,0 +1,7 @@
+"__pycache__/" 
+"*.pyc" 
+"*.html" 
+"*.json" 
+"sample_*.log" 
+"secguard_report_*.html" 
+"secguard_report_*.json" 
